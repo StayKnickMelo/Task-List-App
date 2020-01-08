@@ -1,0 +1,19 @@
+.alert {
+  
+  color:#fff;
+  text-align: center;
+  width:50%;
+  margin:auto;
+  border-radius: 5px;
+  padding:.5rem;
+  font-size: 1.2rem;
+  box-shadow: 1px 1px 5px #333;
+}
+
+.error {
+  background: red;
+}
+
+.success {
+  background:#26a69a; ;
+}
