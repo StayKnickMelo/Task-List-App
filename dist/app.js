@@ -189,12 +189,6 @@ function filterTasks(e){
 }
 
 function hideUl(){
-  // if(localStorage.getItem('items') === null || localStorage.getItem('items') === ''){
-  //   ul.style.display = 'none';
-  // }else{
-  //   ul.style.display = 'block';
-  // }
-
   if(!ul.firstElementChild){
     ul.style.display = 'none';
   }else{
